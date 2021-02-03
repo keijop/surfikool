@@ -1,3 +1,2 @@
 # surfikool
-Learining to code
-This is Surfikool website project
+This is Surfikool website project for a friend
